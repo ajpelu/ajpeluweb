@@ -1,0 +1,35 @@
+---
+date: "2016-04-27T00:00:00Z"
+external_link: ""
+image:
+  caption: "Global change impacts on Sierra Nevada ecosystems. Source: Zamora et al. 2016"
+  focal_point: Smart
+links:
+slides: 
+summary: Sierra Nevada Global Change Observatory is a long term monitoring programme to assess the effects of global change in this Mediterranean mountain region
+tags:
+- Sierra Nevada
+- global change ecology
+- mountain ecosystems
+- information systems
+title: Sierra Nevada Global Change Observatory
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+---
+
+Sierra Nevada, is a high mountain range located in southern Europe which represents an exceptional ecology laboratory of field conditions, offering the advantage of the vast mosaic of ecological conditions existing throughout the complex relief. 
+
+A long‐term monitoring program, called Sierra Nevada Global Change Observatory (**OBSNEV**) was established in 2008 to assess the impact of global change on the ecosystems of this mountain region. This project was conceived to bring together useful and relevant information regarding the far‐reaching effects of global change on ecological systems and the socioeconomics of Sierra Nevada. 
+
+The Sierra Nevada Global Change observatory has compiled an enormous amount of environmental information and mobilized the scientific community working in Sierra Nevada to create a long‐term research infrastructure.
+
+I have been involved since the beginning of the project, working both in the design of the information system and in the analysis of the ecological information collected to evaluate the effects of global change on the different ecosystems. I have also actively participated in the production of several research papers and books on the impacts of global change on the ecosystems of this mountainous region (see [publications section](/publication/)).
+
+Visit the [project website](https://obsnev.es/en/) for more info. 
+
+
+
+
+.

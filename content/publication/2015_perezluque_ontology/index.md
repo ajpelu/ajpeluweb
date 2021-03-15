@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'An ontological system based on MODIS images to assess ecosystem functioning
-  of Natura 2000 habitats: A case study for emphQuercus pyrenaica forests'
+  of Natura 2000 habitats: A case study for *Quercus pyrenaica* forests'
 authors:
 - admin
 - R. Pérez-Pérez

@@ -36,7 +36,12 @@
 [[main]]
   name = "Lab's notebook"
   url = "labnotebooks/"
-  weight = 60
+  weight = 50
+  
+[[main]]
+  name = "Datasets"
+  url = "datasets/"  # The URL of your page.
+  weight = 60  
 
 # [[main]]
 #  name = "Courses"

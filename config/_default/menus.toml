@@ -28,10 +28,15 @@
   url = "#software"
   weight = 40
 
-# [[main]]
-#  name = "Talks"
+#[[main]]
+# name = "Talks"
 #  url = "#talks"
 #  weight = 50
+
+[[main]]
+  name = "Lab's notebook"
+  url = "labnotebooks/"
+  weight = 60
 
 # [[main]]
 #  name = "Courses"

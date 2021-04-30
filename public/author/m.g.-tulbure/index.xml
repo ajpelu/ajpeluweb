@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M.G. Tulbure | </title>
+    <link>/author/m.g.-tulbure/</link>
+      <atom:link href="/author/m.g.-tulbure/index.xml" rel="self" type="application/rss+xml" />
+    <description>M.G. Tulbure</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huc0689ddb1cf5faedbedaa48956540c97_59616_512x512_fill_lanczos_center_2.png</url>
+      <title>M.G. Tulbure</title>
+      <link>/author/m.g.-tulbure/</link>
+    </image>
+    
+    <item>
+      <title>Drought resistance across California ecosystems: evaluating changes in carbon dynamics using satellite imagery</title>
+      <link>/publication/maloneetal-2016-drought-resistance/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/maloneetal-2016-drought-resistance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

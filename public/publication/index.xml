@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | </title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huc0689ddb1cf5faedbedaa48956540c97_59616_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Expansion of elevational range in a forest pest: Can parasitoids track their hosts?</title>
+      <link>/publication/2021_hodar_ecosphere/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021_hodar_ecosphere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecological diversity within rear-edge: a Case Study from Mediterranean Quercus pyrenaica Willd.</title>
+      <link>/publication/2021_perezluque_forests/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2021_perezluque_forests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Land-use legacies and climate change as a double challenge to oak forest resilience: mismatches of geographical and ecological rear edges</title>
+      <link>/publication/2020_perezluque_ecosystems/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_perezluque_ecosystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-term monitoring of the Iberian ibex population in the Sierra Nevada of the southeast Iberian Peninsula</title>
+      <link>/publication/2020_granados_capra/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_granados_capra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compartiendo datos en Ecología: cómo añadir más valor a los datos</title>
+      <link>/publication/perez-luque-ros-candeira-2019-compartiendo-datos/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/perez-luque-ros-candeira-2019-compartiendo-datos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dataset of occurrence and incidence of pine processionary moth in Andalusia, south Spain</title>
+      <link>/publication/ros-candeiraetal-2019-dataset-occurrence/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ros-candeiraetal-2019-dataset-occurrence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Change Impact in the Sierra Nevada Long-Term Ecological Research Site (Southern Spain)</title>
+      <link>/publication/zamoraetal-2017-global-changea/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zamoraetal-2017-global-changea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An ontological system based on MODIS images to assess ecosystem functioning of Natura 2000 habitats: A case study for *Quercus pyrenaica* forests</title>
+      <link>/publication/2015_perezluque_ontology/</link>
+      <pubDate>Thu, 10 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_perezluque_ontology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dataset of Passerine bird communities in a Mediterranean high mountain (Sierra Nevada, Spain)</title>
+      <link>/publication/perez-luqueetal-2016-dataset-passerine/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/perez-luqueetal-2016-dataset-passerine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drought resistance across California ecosystems: evaluating changes in carbon dynamics using satellite imagery</title>
+      <link>/publication/maloneetal-2016-drought-resistance/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/maloneetal-2016-drought-resistance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dataset of MIGRAME project (global change, altitudinal range shift and colonization of degraded habitats in Mediterranean mountains)</title>
+      <link>/publication/perez-luqueetal-2015-dataset-migrame/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/perez-luqueetal-2015-dataset-migrame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dataset of Phenology of Mediterranean high-mountain meadows flora (Sierra Nevada, Spain)</title>
+      <link>/publication/perez-luqueetal-2015-dataset-phenology/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/perez-luqueetal-2015-dataset-phenology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No evidence of induced defence after defoliation in three pine species against an expanding pest, the pine processionary moth</title>
+      <link>/publication/hodaretal-2015-no-evidence/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/hodaretal-2015-no-evidence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protected areas as elicitors of human well-being in a developed region: A new synthetic (socioeconomic) approach</title>
+      <link>/publication/bonet-garciaetal-2015-protected-areas/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/bonet-garciaetal-2015-protected-areas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sinfonevada: Dataset of floristic diversity in Sierra Nevada forests (SE Spain)</title>
+      <link>/publication/perez-luqueetal-2014-sinfonevada-dataset/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/perez-luqueetal-2014-sinfonevada-dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The weight of the past: land-use legacies and recolonization of pine plantations by oak trees</title>
+      <link>/publication/navarro-gonzalezetal-2013-weight-landuse/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/navarro-gonzalezetal-2013-weight-landuse/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

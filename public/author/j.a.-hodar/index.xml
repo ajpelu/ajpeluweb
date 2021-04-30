@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J.A. Hódar | </title>
+    <link>/author/j.a.-hodar/</link>
+      <atom:link href="/author/j.a.-hodar/index.xml" rel="self" type="application/rss+xml" />
+    <description>J.A. Hódar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huc0689ddb1cf5faedbedaa48956540c97_59616_512x512_fill_lanczos_center_2.png</url>
+      <title>J.A. Hódar</title>
+      <link>/author/j.a.-hodar/</link>
+    </image>
+    
+    <item>
+      <title>Expansion of elevational range in a forest pest: Can parasitoids track their hosts?</title>
+      <link>/publication/2021_hodar_ecosphere/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021_hodar_ecosphere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dataset of occurrence and incidence of pine processionary moth in Andalusia, south Spain</title>
+      <link>/publication/ros-candeiraetal-2019-dataset-occurrence/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ros-candeiraetal-2019-dataset-occurrence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No evidence of induced defence after defoliation in three pine species against an expanding pest, the pine processionary moth</title>
+      <link>/publication/hodaretal-2015-no-evidence/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/hodaretal-2015-no-evidence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

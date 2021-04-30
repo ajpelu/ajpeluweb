@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F.J. Bonet-García | </title>
+    <link>/author/f.j.-bonet-garcia/</link>
+      <atom:link href="/author/f.j.-bonet-garcia/index.xml" rel="self" type="application/rss+xml" />
+    <description>F.J. Bonet-García</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huc0689ddb1cf5faedbedaa48956540c97_59616_512x512_fill_lanczos_center_2.png</url>
+      <title>F.J. Bonet-García</title>
+      <link>/author/f.j.-bonet-garcia/</link>
+    </image>
+    
+    <item>
+      <title>Ecological diversity within rear-edge: a Case Study from Mediterranean Quercus pyrenaica Willd.</title>
+      <link>/publication/2021_perezluque_forests/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2021_perezluque_forests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dataset of occurrence and incidence of pine processionary moth in Andalusia, south Spain</title>
+      <link>/publication/ros-candeiraetal-2019-dataset-occurrence/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ros-candeiraetal-2019-dataset-occurrence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An ontological system based on MODIS images to assess ecosystem functioning of Natura 2000 habitats: A case study for *Quercus pyrenaica* forests</title>
+      <link>/publication/2015_perezluque_ontology/</link>
+      <pubDate>Thu, 10 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_perezluque_ontology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dataset of Passerine bird communities in a Mediterranean high mountain (Sierra Nevada, Spain)</title>
+      <link>/publication/perez-luqueetal-2016-dataset-passerine/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/perez-luqueetal-2016-dataset-passerine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dataset of MIGRAME project (global change, altitudinal range shift and colonization of degraded habitats in Mediterranean mountains)</title>
+      <link>/publication/perez-luqueetal-2015-dataset-migrame/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/perez-luqueetal-2015-dataset-migrame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dataset of Phenology of Mediterranean high-mountain meadows flora (Sierra Nevada, Spain)</title>
+      <link>/publication/perez-luqueetal-2015-dataset-phenology/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/perez-luqueetal-2015-dataset-phenology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protected areas as elicitors of human well-being in a developed region: A new synthetic (socioeconomic) approach</title>
+      <link>/publication/bonet-garciaetal-2015-protected-areas/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/bonet-garciaetal-2015-protected-areas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sinfonevada: Dataset of floristic diversity in Sierra Nevada forests (SE Spain)</title>
+      <link>/publication/perez-luqueetal-2014-sinfonevada-dataset/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/perez-luqueetal-2014-sinfonevada-dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The weight of the past: land-use legacies and recolonization of pine plantations by oak trees</title>
+      <link>/publication/navarro-gonzalezetal-2013-weight-landuse/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/navarro-gonzalezetal-2013-weight-landuse/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Giménez de Azcárate | </title>
+    <link>/author/f.-gimenez-de-azcarate/</link>
+      <atom:link href="/author/f.-gimenez-de-azcarate/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Giménez de Azcárate</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huc0689ddb1cf5faedbedaa48956540c97_59616_512x512_fill_lanczos_center_2.png</url>
+      <title>F. Giménez de Azcárate</title>
+      <link>/author/f.-gimenez-de-azcarate/</link>
+    </image>
+    
+    <item>
+      <title>Dataset of occurrence and incidence of pine processionary moth in Andalusia, south Spain</title>
+      <link>/publication/ros-candeiraetal-2019-dataset-occurrence/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ros-candeiraetal-2019-dataset-occurrence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

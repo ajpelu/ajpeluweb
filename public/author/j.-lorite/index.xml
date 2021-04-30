@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Lorite | </title>
+    <link>/author/j.-lorite/</link>
+      <atom:link href="/author/j.-lorite/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Lorite</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huc0689ddb1cf5faedbedaa48956540c97_59616_512x512_fill_lanczos_center_2.png</url>
+      <title>J. Lorite</title>
+      <link>/author/j.-lorite/</link>
+    </image>
+    
+    <item>
+      <title>Sinfonevada: Dataset of floristic diversity in Sierra Nevada forests (SE Spain)</title>
+      <link>/publication/perez-luqueetal-2014-sinfonevada-dataset/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/perez-luqueetal-2014-sinfonevada-dataset/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Aspizua | </title>
+    <link>/author/r.-aspizua/</link>
+      <atom:link href="/author/r.-aspizua/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Aspizua</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huc0689ddb1cf5faedbedaa48956540c97_59616_512x512_fill_lanczos_center_2.png</url>
+      <title>R. Aspizua</title>
+      <link>/author/r.-aspizua/</link>
+    </image>
+    
+    <item>
+      <title>Global Change Impact in the Sierra Nevada Long-Term Ecological Research Site (Southern Spain)</title>
+      <link>/publication/zamoraetal-2017-global-changea/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zamoraetal-2017-global-changea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sinfonevada: Dataset of floristic diversity in Sierra Nevada forests (SE Spain)</title>
+      <link>/publication/perez-luqueetal-2014-sinfonevada-dataset/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/perez-luqueetal-2014-sinfonevada-dataset/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

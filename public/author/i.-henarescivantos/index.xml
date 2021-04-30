@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I. Henares‐Civantos | </title>
+    <link>/author/i.-henarescivantos/</link>
+      <atom:link href="/author/i.-henarescivantos/index.xml" rel="self" type="application/rss+xml" />
+    <description>I. Henares‐Civantos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huc0689ddb1cf5faedbedaa48956540c97_59616_512x512_fill_lanczos_center_2.png</url>
+      <title>I. Henares‐Civantos</title>
+      <link>/author/i.-henarescivantos/</link>
+    </image>
+    
+    <item>
+      <title>Global Change Impact in the Sierra Nevada Long-Term Ecological Research Site (Southern Spain)</title>
+      <link>/publication/zamoraetal-2017-global-changea/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zamoraetal-2017-global-changea/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Espinosa Cerrato | </title>
+    <link>/author/j.-espinosa-cerrato/</link>
+      <atom:link href="/author/j.-espinosa-cerrato/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Espinosa Cerrato</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huc0689ddb1cf5faedbedaa48956540c97_59616_512x512_fill_lanczos_center_2.png</url>
+      <title>J. Espinosa Cerrato</title>
+      <link>/author/j.-espinosa-cerrato/</link>
+    </image>
+    
+    <item>
+      <title>Long-term monitoring of the Iberian ibex population in the Sierra Nevada of the southeast Iberian Peninsula</title>
+      <link>/publication/2020_granados_capra/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_granados_capra/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

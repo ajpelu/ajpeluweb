@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mountain pine plantation | </title>
+    <link>/tag/mountain-pine-plantation/</link>
+      <atom:link href="/tag/mountain-pine-plantation/index.xml" rel="self" type="application/rss+xml" />
+    <description>mountain pine plantation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huc0689ddb1cf5faedbedaa48956540c97_59616_512x512_fill_lanczos_center_2.png</url>
+      <title>mountain pine plantation</title>
+      <link>/tag/mountain-pine-plantation/</link>
+    </image>
+    
+    <item>
+      <title>diveRpine: diversification of pine plantations in Mediterranean mountains</title>
+      <link>/software/diverpine/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/software/diverpine/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

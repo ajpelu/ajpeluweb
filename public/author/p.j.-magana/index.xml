@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P.J. Magaña | </title>
+    <link>/author/p.j.-magana/</link>
+      <atom:link href="/author/p.j.-magana/index.xml" rel="self" type="application/rss+xml" />
+    <description>P.J. Magaña</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huc0689ddb1cf5faedbedaa48956540c97_59616_512x512_fill_lanczos_center_2.png</url>
+      <title>P.J. Magaña</title>
+      <link>/author/p.j.-magana/</link>
+    </image>
+    
+    <item>
+      <title>An ontological system based on MODIS images to assess ecosystem functioning of Natura 2000 habitats: A case study for *Quercus pyrenaica* forests</title>
+      <link>/publication/2015_perezluque_ontology/</link>
+      <pubDate>Thu, 10 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_perezluque_ontology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -13,7 +13,7 @@ Here you can find several Lab's notebooks. Be aware, those are very dynamics and
 
 ## Visualizations 
 
-- [Spatial visualization of vegetation transects to analyze the colonization pattern of abandonment croplands within *Quercus pyrenaica* woodlands of Sierra Nevada](https://ajpelu.github.io/qpyr_sp_coloniza/) [![DOI](https://zenodo.org/badge/371296612.svg)](https://zenodo.org/badge/latestdoi/371296612)
+- [Spatial visualization of vegetation transects to analyze the colonization pattern of abandonment croplands within *Quercus pyrenaica* woodlands of Sierra Nevada](https://ajpelu.github.io/qpyr_sp_coloniza/) 
 
 - [Geoinformation about *Quercus pyrenaica* woodlands at Sierra Nevada]
-(https://ajpelu.github.io/qpyr_historic) [![DOI](https://zenodo.org/badge/117563374.svg)](https://zenodo.org/badge/latestdoi/117563374) 
+(https://ajpelu.github.io/qpyr_historic)

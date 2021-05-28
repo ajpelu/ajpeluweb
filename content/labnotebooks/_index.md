@@ -19,5 +19,5 @@ Here you can find several Lab's notebooks. Be aware, those are very dynamics and
 
 - [Visualization of the Dataset: Ecosystem functioning and functional diversity of Sierra Nevada (SE Spain)](https://ajpelu.github.io/eftSN/)
 
-- [Report's Visualization: Simulation of the climate change impacts on high-mountain scrubland ecosystems of Sierra Nevada (SE Spain) (*in Spanish*)](https://ajpelu.github.io/life_enebrando)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4034296.svg)](https://doi.org/10.5281/zenodo.4034296)
+- [Report's Visualization: Simulation of the climate change impacts on high-mountain scrubland ecosystems of Sierra Nevada (SE Spain) (*in Spanish*)](https://ajpelu.github.io/life_enebrando)
 
